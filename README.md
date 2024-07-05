@@ -12,3 +12,7 @@ This is a simple online quiz application built using React.js.The application al
 ## Technologies Used
 
 - Frontend: React.js, CSS
+
+## Link to the Site-
+
+https://quizstar.vercel.app/
